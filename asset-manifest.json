@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/capstone-ofg/static/css/main.505c573a.css",
+    "main.js": "/capstone-ofg/static/js/main.3bfabb31.js",
+    "static/js/787.1b45cc30.chunk.js": "/capstone-ofg/static/js/787.1b45cc30.chunk.js",
+    "static/media/img2.jpg": "/capstone-ofg/static/media/img2.3f59f4d5cfecaae081fb.jpg",
+    "static/media/img7.jpg": "/capstone-ofg/static/media/img7.4b27afb0f73f7f77c436.jpg",
+    "static/media/img1.jpg": "/capstone-ofg/static/media/img1.3da66e0e15192a2e169f.jpg",
+    "static/media/img3.jpg": "/capstone-ofg/static/media/img3.ede8356f4a7942d10a33.jpg",
+    "static/media/img6.jpg": "/capstone-ofg/static/media/img6.51aa4f3819c5455aa55c.jpg",
+    "static/media/img5.jpg": "/capstone-ofg/static/media/img5.bdc8a1c2093320095053.jpg",
+    "static/media/img8.jpg": "/capstone-ofg/static/media/img8.80caec91f563ba93564f.jpg",
+    "static/media/img4.jpg": "/capstone-ofg/static/media/img4.2407129f816879002586.jpg",
+    "static/media/doks.png": "/capstone-ofg/static/media/doks.48868efd9423fe2a44f2.png",
+    "static/media/OppaFitnessGym.png": "/capstone-ofg/static/media/OppaFitnessGym.4bba91cb2ad615824518.png",
+    "static/media/hero_bg.svg": "/capstone-ofg/static/media/hero_bg.7045fda056c3da35ca50.svg",
+    "static/media/extra_bg.svg": "/capstone-ofg/static/media/extra_bg.cbf160eeddc3ade62a44.svg",
+    "static/media/footer.svg": "/capstone-ofg/static/media/footer.54bf17cae6c0481b1e3e.svg",
+    "index.html": "/capstone-ofg/index.html",
+    "main.505c573a.css.map": "/capstone-ofg/static/css/main.505c573a.css.map",
+    "main.3bfabb31.js.map": "/capstone-ofg/static/js/main.3bfabb31.js.map",
+    "787.1b45cc30.chunk.js.map": "/capstone-ofg/static/js/787.1b45cc30.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.505c573a.css",
+    "static/js/main.3bfabb31.js"
+  ]
+}
